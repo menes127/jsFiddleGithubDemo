@@ -1,1 +1,6 @@
-{ "test": "demo" }
+[
+  {"id" : 1, "text": "aa"},
+  {"id" : 2, "text": "bb"},
+  {"id" : 3, "text": "cc"},
+  {"id" : 4, "text": "dd"}
+]
